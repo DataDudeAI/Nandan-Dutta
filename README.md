@@ -34,7 +34,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandandutta&layout=compact&theme=radical)
 
 ## 🏆 Achievements
-- **Jio Platforms:** Delivering impactful AI-driven solutions.  
 - **NLP Expertise:** Hands-on experience with **chatbots**, **text summarization**, and **search systems**.  
 - **MLOps Implementation:** Setting up CI/CD pipelines, model monitoring, and deployment workflows.
 
