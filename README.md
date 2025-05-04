@@ -5,7 +5,9 @@
 - 🌱 Exploring advanced **AI Engineering** concepts, including **NLP, Generative AI, and MLOps**  
 - 💡 Passionate about solving real-world problems through **Machine Learning** and **AI Solutions**  
 - 📫 Reach me at: **n.dutta25@gmail.com**  
-- 🌐 Visit my previous GitHub: [nandandutta](https://github.com/nandandutta)  
+- 🌐 Visit my GitHub profiles:  
+  - 🔹 [nandandutta](https://github.com/nandandutta) — personal projects & AI work  
+  - 🔹 [DataDudeAI](https://github.com/DataDudeAI) — experimental/organization-level repositories  
 
 ## 🛠️ Skills and Tools
 ### Programming Languages
@@ -29,23 +31,32 @@
 - ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 
 ## 📊 GitHub Stats
-![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandandutta&show_icons=true&theme=radical)
 
+## 🧪 GitHub Stats (Org/Team Projects)
+
+![DataDudeAI GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataDudeAI&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataDudeAI&layout=compact&theme=radical)
+## 📊 GitHub Stats (Personal Account) (Lost)
+![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandandutta&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandandutta&layout=compact&theme=radical)
 
 ## 🏆 Achievements
-- **NLP Expertise:** Hands-on experience with **chatbots**, **text summarization**, and **search systems**.  
-- **MLOps Implementation:** Setting up CI/CD pipelines, model monitoring, and deployment workflows.
+- **NLP Expertise:** Hands-on experience with **chatbots**, **text summarization**, and **search systems**  
+- **MLOps Implementation:** Setting up CI/CD pipelines, model monitoring, and deployment workflows  
 
 ## 🌟 Featured Projects
-### 🧠 AI and Machine Learning
-- **[Generative AI Chatbot](https://github.com/nandandutta/Generative-AI-Chatbot)**: An NLP-powered chatbot using Hugging Face transformers.  
-- **[ML Deployment Pipeline](https://github.com/nandandutta/ML-Deployment-Pipeline)**: End-to-end MLOps pipeline for deploying machine learning models.  
-- **[Sentiment Analysis](https://github.com/nandandutta/Sentiment-Analysis)**: Sentiment classifier using deep learning techniques.  
 
-### 🔧 Tools and Utilities
-- **[Data Preprocessing Toolkit](https://github.com/nandandutta/Data-Preprocessing-Toolkit)**: Reusable scripts for data cleaning and feature engineering.  
-- **[MLOps Workflow](https://github.com/nandandutta/MLOps-Workflow)**: CI/CD automation for AI projects.
+### 🧠 AI and Machine Learning (nandandutta)
+- **[Generative AI Chatbot](https://github.com/nandandutta/Generative-AI-Chatbot)**: NLP-powered chatbot using Hugging Face transformers  
+- **[ML Deployment Pipeline](https://github.com/nandandutta/ML-Deployment-Pipeline)**: End-to-end MLOps for deploying ML models  
+- **[Sentiment Analysis](https://github.com/nandandutta/Sentiment-Analysis)**: Deep learning-based sentiment classifier  
+
+### 🔧 Tools and Utilities (nandandutta)
+- **[Data Preprocessing Toolkit](https://github.com/nandandutta/Data-Preprocessing-Toolkit)**: Reusable scripts for data cleaning & feature engineering  
+- **[MLOps Workflow](https://github.com/nandandutta/MLOps-Workflow)**: CI/CD automation for AI/ML projects  
+
+### 🧪 Experimental and Team Projects (DataDudeAI)
+- **[Coming Soon…](https://github.com/DataDudeAI)**: Collaborative AI projects and enterprise-level implementations hosted under the `DataDudeAI` organization  
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandandutta)  
